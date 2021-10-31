@@ -5,4 +5,23 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Result
 
+- RandomOverSampler model
+![](Results/RandomOversampler.png)
+
+- SMOTE model
+![](Results/SMOTE.png)
+
+- ClusterCentroids model
+![](Results/ClusterCentroids.png)
+
+- SMOTEENN model
+![](Results/SMOTEENN.png)
+
+- BalancedRandomForestClassifier model
+![](Results/BalancedRandomForestClassifier.png)
+
+- EasyEnsembleClassifier model
+![](Results/EasyEnsembleClassifier.png)
+
+
 ## Summary
